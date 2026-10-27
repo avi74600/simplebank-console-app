@@ -88,8 +88,8 @@ Models/
 ### Clone & Run
 ```bash
 # 1. Clone the repository
-git clone <REPO_URL>
-cd <REPO_FOLDER>
+git clone https://github.com/avi74600/simplebank-console-app.git
+cd simplebank-console-app
 
 # 2. Build the project
 dotnet build
